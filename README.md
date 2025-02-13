@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, Filiphe`s here👋
 
-<!--
-**liphvf/liphvf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇧🇷 O que posso falar sobre mim... 🤔
+Sou um Desenvolvedor Back-end C# apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em .NET, PostgreSQL, Docker e API Rest. Gosto de explorar novas arquiteturas, otimizar desempenho e criar soluções escaláveis e eficientes.
 
-Here are some ideas to get you started:
+- 🔹 Experiência: .NET, PostgreSQL, Docker, API Rest
+- 🎯 Interesses: Gosto de tudo um pouco! Adoro aprender coisas novas e explorar diferentes tecnologias.
+- 📚 Estudos Atuais: O Universo da Inteligência Artificial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique à vontade para explorar meus projetos e trocar ideias! 🚀
+
+----
+
+## 🇺🇸 What can I say about myself... 🤔
+I’m a Back-end C# Developer passionate about technology and continuous learning. I have experience with .NET, PostgreSQL, Docker, and REST APIs. I enjoy exploring new architectures, optimizing performance, and building scalable and efficient solutions.
+
+- 🔹 Experience: .NET, PostgreSQL, Docker, REST API
+- 🎯 Interests: I like a bit of everything! I love learning new things and exploring different technologies.
+- 📚 Current Studies: The universe of Artificial Intelligence
+
+Feel free to check out my projects and connect! 🚀
