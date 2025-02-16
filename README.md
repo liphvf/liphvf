@@ -19,3 +19,12 @@ I’m a Back-end C# Developer passionate about technology and continuous learnin
 - 📚 Current Studies: The universe of Artificial Intelligence
 
 Feel free to check out my projects and connect! 🚀
+
+## Stats
+
+<a href="https://github.com/liphvf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liphvf&show_icons=true&include_all_commits=false&rank_icon=github" />
+</a>
+<a href="https://github.com/liphvf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liphvf&layout=compact&langs_count=8&card_width=320" />
+</a>
